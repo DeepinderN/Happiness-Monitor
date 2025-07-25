@@ -1,0 +1,10 @@
+from django.contrib.auth.models import User
+from rest_framework.authtoken.models import Token
+
+u, created = User.objects.get_or_create(username="root")
+if created:
+    u.set_password("root")
+    u.is_staff = True
+    u.is_superuser = True
+    u.save()
+Token.objects.get_or_create(user=u)

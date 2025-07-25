@@ -1,0 +1,62 @@
+version: '3.9'
+
+services:
+  web:
+    build: ./backend
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - redis
+    environment:
+      - DB_NAME=happiness_db
+      - DB_USER=postgres
+      - DB_PASSWORD=postgres
+      - DB_HOST=db
+      - DB_PORT=5432
+
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: happiness_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+  redis:
+    image: redis:7
+    ports:
+      - "6379:6379"
+
+  worker:
+    build: ./backend
+    command: >
+      sh -c "cd happiness && celery -A happiness worker --loglevel=info"
+    volumes:
+      - ./backend:/app
+    working_dir: /app
+    depends_on:
+      - redis
+      - db
+  # worker:
+  #   build: ./backend
+  #   command: >
+  #     sh -c "
+  #       until pg_isready -h db -U postgres; do
+  #         echo 'Waiting for Postgres...';
+  #         sleep 2;
+  #       done;
+  #       cd happiness && celery -A happiness worker --loglevel=info
+  #     "
+  #   volumes:
+  #     - ./backend:/app
+  #   working_dir: /app
+  #   depends_on:
+  #     - redis
+  #     - db
+
+
+volumes:
+  postgres_data:
