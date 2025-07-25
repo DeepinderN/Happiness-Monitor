@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests-master.dia",
+    "emit-module-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests-master.swiftdeps"
+  },
+  "/Users/beck/Documents/kavil/HappinessMonitor/HappinessMonitorUITests/HappinessMonitorUITests.swift" : {
+    "const-values" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests.swiftconstvalues",
+    "dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests.d",
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests.dia",
+    "index-unit-output-path" : "/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests.o",
+    "llvm-bc" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests.bc",
+    "object" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests.o",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests.swiftdeps",
+    "swiftmodule" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITests~partial.swiftmodule"
+  },
+  "/Users/beck/Documents/kavil/HappinessMonitor/HappinessMonitorUITests/HappinessMonitorUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITestsLaunchTests.d",
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITestsLaunchTests.bc",
+    "object" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorUITests.build/Objects-normal/x86_64/HappinessMonitorUITestsLaunchTests~partial.swiftmodule"
+  }
+}

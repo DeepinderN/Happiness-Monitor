@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'HappinessMonitorUITests' in project 'HappinessMonitor'
+➜ Explicit dependency on target 'HappinessMonitor' in project 'HappinessMonitor'
+Target 'HappinessMonitorTests' in project 'HappinessMonitor'
+➜ Explicit dependency on target 'HappinessMonitor' in project 'HappinessMonitor'
+Target 'HappinessMonitor' in project 'HappinessMonitor' (no dependencies)

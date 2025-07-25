@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitor-master.dia",
+    "emit-module-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitor-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitor-master-emit-module.dia",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitor-master.swiftdeps"
+  },
+  "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/beck/Documents/kavil/HappinessMonitor/HappinessMonitor/ContentView.swift" : {
+    "const-values" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/beck/Documents/kavil/HappinessMonitor/HappinessMonitor/HappinessMonitorApp.swift" : {
+    "const-values" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitorApp.swiftconstvalues",
+    "dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitorApp.d",
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitorApp.dia",
+    "index-unit-output-path" : "/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitorApp.o",
+    "llvm-bc" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitorApp.bc",
+    "object" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitorApp.o",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitorApp.swiftdeps",
+    "swiftmodule" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HappinessMonitorApp~partial.swiftmodule"
+  },
+  "/Users/beck/Documents/kavil/HappinessMonitor/HappinessMonitor/HomeViewController.swift" : {
+    "const-values" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HomeViewController.swiftconstvalues",
+    "dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HomeViewController.d",
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HomeViewController.dia",
+    "index-unit-output-path" : "/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HomeViewController.o",
+    "llvm-bc" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HomeViewController.bc",
+    "object" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HomeViewController.o",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HomeViewController.swiftdeps",
+    "swiftmodule" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitor.build/Objects-normal/x86_64/HomeViewController~partial.swiftmodule"
+  }
+}

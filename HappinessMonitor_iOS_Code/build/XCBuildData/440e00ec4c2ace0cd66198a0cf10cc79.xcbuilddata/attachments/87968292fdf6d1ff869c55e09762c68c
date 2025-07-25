@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests-master.dia",
+    "emit-module-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests-master.swiftdeps"
+  },
+  "/Users/beck/Documents/kavil/HappinessMonitor/HappinessMonitorTests/HappinessMonitorTests.swift" : {
+    "const-values" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests.swiftconstvalues",
+    "dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests.d",
+    "diagnostics" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests.dia",
+    "index-unit-output-path" : "/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests.o",
+    "llvm-bc" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests.bc",
+    "object" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests.o",
+    "swift-dependencies" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests.swiftdeps",
+    "swiftmodule" : "/Users/beck/Documents/kavil/HappinessMonitor/build/HappinessMonitor.build/Debug/HappinessMonitorTests.build/Objects-normal/x86_64/HappinessMonitorTests~partial.swiftmodule"
+  }
+}
